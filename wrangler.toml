@@ -4,5 +4,6 @@ compatibility_date = "2025-11-04"
 keep_vars = true
 
 #[[kv_namespaces]]
-#binding = "KV"			#KV绑定名默认不可修改
-#id = ""				#KV数据库id
+binding = "KV"			#KV绑定名默认不可修改
+
+id = "04d2e336aa454b599c71b4cd1acd0509"				#KV数据库id
